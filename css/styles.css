@@ -378,7 +378,7 @@ a {
     margin-right: 30px;
 }
 
-.team-item:not(:nth-last-child(-n + 4)) {
+.team-item:not(:nth-last-child(-n)) {
     margin-bottom: 30px;
 }
 
