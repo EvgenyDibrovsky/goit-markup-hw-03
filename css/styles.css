@@ -279,8 +279,8 @@ a {
 
 /* -------------------- ADVANTAGES -------------------- */
 
-.advantages-bottom {
-    padding-bottom: 0;
+.skills-top {
+    padding-top: 0;
 }
 
 .advantages-list {
@@ -459,6 +459,7 @@ a {
 .footer .logo  {
     display: inline-block;
     margin-bottom: 20px;
+    margin-right: 0px;
 }
 
 .address {
